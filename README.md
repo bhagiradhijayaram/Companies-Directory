@@ -12,7 +12,7 @@ A React-based application to list and filter companies by location, industry, an
 ```
 src/
 ├── components/
-│   ├── Navbar.jsx
+│   ├── Header.jsx
 │   ├── Filters.jsx
 │   ├── CompanyCard.jsx
 │   ├── CompanyTable.jsx
