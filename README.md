@@ -57,6 +57,9 @@ const totalPages = Math.ceil(filteredCompanies.length / itemsPerPage);
 ## Author
 Jayaram Bhagheeradhi
 
+## Live Preview
+Link: https://company-directory-web.netlify.app/
+
 ## Webiste Screens
 
 <img width="1920" height="1177" alt="image1" src="https://github.com/user-attachments/assets/a7b716ff-b4fe-47d1-bb0c-e838aaf80658" />
