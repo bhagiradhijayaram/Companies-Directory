@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "name": "TechNova Solutions",
+    "industry": "Information Technology",
+    "location": "Bangalore",
+    "website": "https://www.technova.com"
+  },
+  {
+    "id": 2,
+    "name": "CloudEdge Systems",
+    "industry": "Information Technology",
+    "location": "Hyderabad",
+    "website": "https://www.cloudedge.in"
+  },
+  {
+    "id": 3,
+    "name": "DataVerse Analytics",
+    "industry": "Information Technology",
+    "location": "Noida",
+    "website": "https://www.dataverseanalytics.com"
+  },
+  {
+    "id": 4,
+    "name": "CyberLink Tech",
+    "industry": "Information Technology",
+    "location": "Pune",
+    "website": "https://www.cyberlinktech.com"
+  },
+  {
+    "id": 5,
+    "name": "InfoBridge Networks",
+    "industry": "Information Technology",
+    "location": "Chennai",
+    "website": "https://www.infobridge.in"
+  },
+  {
+    "id": 6,
+    "name": "EduSmart Learning",
+    "industry": "EduTech",
+    "location": "Bangalore",
+    "website": "https://www.edusmartlearning.com"
+  },
+  {
+    "id": 7,
+    "name": "BrightMinds Academy",
+    "industry": "EduTech",
+    "location": "Hyderabad",
+    "website": "https://www.brightmindsacademy.in"
+  },
+  {
+    "id": 8,
+    "name": "Learnify Global",
+    "industry": "EduTech",
+    "location": "Delhi",
+    "website": "https://www.learnifyglobal.com"
+  },
+  {
+    "id": 9,
+    "name": "SkillHub Institute",
+    "industry": "EduTech",
+    "location": "Kolkata",
+    "website": "https://www.skillhubinstitute.in"
+  },
+  {
+    "id": 10,
+    "name": "EduVerse Technologies",
+    "industry": "EduTech",
+    "location": "Pune",
+    "website": "https://www.eduversetech.com"
+  },
+  {
+    "id": 11,
+    "name": "ShopEase Online",
+    "industry": "E-commerce",
+    "location": "Mumbai",
+    "website": "https://www.shopease.in"
+  },
+  {
+    "id": 12,
+    "name": "NovaWear Fashion",
+    "industry": "E-commerce",
+    "location": "Delhi",
+    "website": "https://www.novawear.in"
+  },
+  {
+    "id": 13,
+    "name": "BuySmart Electronics",
+    "industry": "E-commerce",
+    "location": "Chennai",
+    "website": "https://www.buysmart.in"
+  },
+  {
+    "id": 14,
+    "name": "FreshMart Groceries",
+    "industry": "E-commerce",
+    "location": "Hyderabad",
+    "website": "https://www.freshmartgroceries.in"
+  },
+  {
+    "id": 15,
+    "name": "DealHub Store",
+    "industry": "E-commerce",
+    "location": "Bangalore",
+    "website": "https://www.dealhubstore.com"
+  },
+  {
+    "id": 16,
+    "name": "FinSecure Capital",
+    "industry": "Finance",
+    "location": "Mumbai",
+    "website": "https://www.finsecurecapital.com"
+  },
+  {
+    "id": 17,
+    "name": "BlueFin Investments",
+    "industry": "Finance",
+    "location": "Delhi",
+    "website": "https://www.bluefininvestments.com"
+  },
+  {
+    "id": 18,
+    "name": "WealthWise Advisors",
+    "industry": "Finance",
+    "location": "Hyderabad",
+    "website": "https://www.wealthwiseadvisors.in"
+  },
+  {
+    "id": 19,
+    "name": "GrowTrust Finance",
+    "industry": "Finance",
+    "location": "Chennai",
+    "website": "https://www.growtrustfinance.com"
+  },
+  {
+    "id": 20,
+    "name": "MoneyMinds Consulting",
+    "industry": "Finance",
+    "location": "Pune",
+    "website": "https://www.moneymindsconsulting.in"
+  },
+  {
+    "id": 21,
+    "name": "UrbanEdge Developers",
+    "industry": "Real Estate",
+    "location": "Hyderabad",
+    "website": "https://www.urbanedgedevelopers.com"
+  },
+  {
+    "id": 22,
+    "name": "Varahi Infra Projects",
+    "industry": "Real Estate",
+    "location": "Vijayawada",
+    "website": "https://www.varahiinfra.in"
+  },
+  {
+    "id": 23,
+    "name": "DreamHomes Realty",
+    "industry": "Real Estate",
+    "location": "Bangalore",
+    "website": "https://www.dreamhomesrealty.in"
+  },
+  {
+    "id": 24,
+    "name": "SkyView Builders",
+    "industry": "Real Estate",
+    "location": "Chennai",
+    "website": "https://www.skyviewbuilders.com"
+  },
+  {
+    "id": 25,
+    "name": "GreenScape Properties",
+    "industry": "Real Estate",
+    "location": "Pune",
+    "website": "https://www.greenscapeproperties.in"
+  },
+  {
+    "id": 26,
+    "name": "CodeFusion Labs",
+    "industry": "Software Development",
+    "location": "Hyderabad",
+    "website": "https://www.codefusionlabs.com"
+  },
+  {
+    "id": 27,
+    "name": "InnoSoft Technologies",
+    "industry": "Software Development",
+    "location": "Bangalore",
+    "website": "https://www.innosofttech.in"
+  },
+  {
+    "id": 28,
+    "name": "AppWorks Studio",
+    "industry": "Software Development",
+    "location": "Chennai",
+    "website": "https://www.appworksstudio.com"
+  },
+  {
+    "id": 29,
+    "name": "NextGen Coders",
+    "industry": "Software Development",
+    "location": "Delhi",
+    "website": "https://www.nextgencoders.in"
+  },
+  {
+    "id": 30,
+    "name": "LogicWave Solutions",
+    "industry": "Software Development",
+    "location": "Pune",
+    "website": "https://www.logicwave.in"
+  },
+  {
+    "id": 31,
+    "name": "Healthify Wellness",
+    "industry": "Healthcare",
+    "location": "Bangalore",
+    "website": "https://www.healthifywellness.in"
+  },
+  {
+    "id": 32,
+    "name": "MediCure Diagnostics",
+    "industry": "Healthcare",
+    "location": "Chennai",
+    "website": "https://www.medicurediagnostics.com"
+  },
+  {
+    "id": 33,
+    "name": "CarePoint Hospitals",
+    "industry": "Healthcare",
+    "location": "Hyderabad",
+    "website": "https://www.carepointhospitals.in"
+  },
+  {
+    "id": 34,
+    "name": "WellNest Clinics",
+    "industry": "Healthcare",
+    "location": "Delhi",
+    "website": "https://www.wellnestclinics.com"
+  },
+  {
+    "id": 35,
+    "name": "LifeSpring Pharma",
+    "industry": "Healthcare",
+    "location": "Pune",
+    "website": "https://www.lifespringpharma.in"
+  },
+  {
+    "id": 36,
+    "name": "ByteBridge Technologies",
+    "industry": "Information Technology",
+    "location": "Mumbai",
+    "website": "https://www.bytebridge.in"
+  },
+  {
+    "id": 37,
+    "name": "TechSphere Digital",
+    "industry": "Software Development",
+    "location": "Hyderabad",
+    "website": "https://www.techspheredigital.com"
+  },
+  {
+    "id": 38,
+    "name": "MindWave Learning",
+    "industry": "EduTech",
+    "location": "Coimbatore",
+    "website": "https://www.mindwavelearning.in"
+  },
+  {
+    "id": 39,
+    "name": "SmartCart Marketplace",
+    "industry": "E-commerce",
+    "location": "Ahmedabad",
+    "website": "https://www.smartcartmarket.in"
+  },
+  {
+    "id": 40,
+    "name": "SecureFin Partners",
+    "industry": "Finance",
+    "location": "Gurgaon",
+    "website": "https://www.securefinpartners.in"
+  },
+  {
+    "id": 41,
+    "name": "MetroBuild Infra",
+    "industry": "Real Estate",
+    "location": "Chennai",
+    "website": "https://www.metrobuildinfra.in"
+  },
+  {
+    "id": 42,
+    "name": "CloudMatrix IT",
+    "industry": "Information Technology",
+    "location": "Hyderabad",
+    "website": "https://www.cloudmatrixit.in"
+  },
+  {
+    "id": 43,
+    "name": "CodeVerse Technologies",
+    "industry": "Software Development",
+    "location": "Bangalore",
+    "website": "https://www.codeverse.in"
+  },
+  {
+    "id": 44,
+    "name": "HealWell Hospitals",
+    "industry": "Healthcare",
+    "location": "Mumbai",
+    "website": "https://www.healwellhospitals.in"
+  },
+  {
+    "id": 45,
+    "name": "LearnBridge Academy",
+    "industry": "EduTech",
+    "location": "Delhi",
+    "website": "https://www.learnbridge.in"
+  },
+  {
+    "id": 46,
+    "name": "ShopSmart Deals",
+    "industry": "E-commerce",
+    "location": "Hyderabad",
+    "website": "https://www.shopsmartdeals.in"
+  },
+  {
+    "id": 47,
+    "name": "FinEdge Investments",
+    "industry": "Finance",
+    "location": "Bangalore",
+    "website": "https://www.finedgeinvestments.in"
+  },
+  {
+    "id": 48,
+    "name": "SkyView Realty",
+    "industry": "Real Estate",
+    "location": "Hyderabad",
+    "website": "https://www.skyviewrealty.in"
+  },
+  {
+    "id": 49,
+    "name": "MediLife Diagnostics",
+    "industry": "Healthcare",
+    "location": "Chennai",
+    "website": "https://www.medilifediagnostics.in"
+  },
+  {
+    "id": 50,
+    "name": "NextWave Technologies",
+    "industry": "Information Technology",
+    "location": "Pune",
+    "website": "https://www.nextwave.in"
+  }
+]
