@@ -33,9 +33,9 @@ src/
 ## Tech Stack
 React 19, Tailwind CSS v4, Vite
 
-## 🧩 Key Functionalities Explained
+## Key Functionalities Explained
 
-### 🔍 Filtering Logic
+### Filtering Logic
 The app filters companies by:
 - Search term (matches name, industry, or location)
 - Selected location
