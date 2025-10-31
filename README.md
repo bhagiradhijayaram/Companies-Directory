@@ -12,7 +12,7 @@ A React-based application to list and filter companies by location, industry, an
 React 19, Tailwind CSS v4, Vite
 
 ## Setup Instructions
-1. Clone the repo: `git clone https://github.com/username/company-directory.git`
+1. Clone the repo: `https://github.com/bhagiradhijayaram/Companies-Directory.git`
 2. Install dependencies: `npm install`
 3. Run the app: `npm run dev`
 
