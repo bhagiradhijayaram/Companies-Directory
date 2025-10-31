@@ -4,10 +4,14 @@ A responsive and interactive **Company Directory Web Application** built using *
 This app allows users to browse, search, filter, and sort company data with smooth pagination and dynamic UI updates.
 
 ## Features
-- Search, filter, and sort companies
-- Pagination
-- Responsive design using Tailwind CSS
-- Error and loading state handling
+- **Company Listing** – Displays a list of all companies with key details such as name, location, and industry.  
+- **Search Functionality** – Instantly filter companies by name, location, or industry.  
+- **Advanced Filters** – Filter by specific **location** or **industry** dropdowns.  
+- **Sorting** – Sort company names in ascending or descending order.  
+- **Pagination** – Clean page navigation with total pages dynamically calculated.  
+- **Loading & Error Handling** – Shows loader while fetching data and error messages when something goes wrong.  
+- **Responsive Design** – Optimized for all screen sizes (desktop, tablet, and mobile).  
+- **Modern UI** – Built using Tailwind CSS and icons from `react-icons`.
 
 ## Folder Structure
 ```
