@@ -1,4 +1,4 @@
-# Company Directory App
+# Company Directory Web
 
 A React-based application to list and filter companies by location, industry, and name.
 
