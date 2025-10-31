@@ -47,6 +47,7 @@ Filtering also automatically **resets the current page to 1** for accurate resul
 Pagination dynamically adjusts based on filtered results:
 ```js
 const totalPages = Math.ceil(filteredCompanies.length / itemsPerPage);
+```
 
 ## Setup Instructions
 1. Clone the repo: `https://github.com/bhagiradhijayaram/Companies-Directory.git`
