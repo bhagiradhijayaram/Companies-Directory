@@ -60,6 +60,8 @@ Jayaram Bhagheeradhi
 ## Live Preview
 Website Link: https://company-directory-web.netlify.app/
 
+## Screen Recording Video
+Video: https://drive.google.com/file/d/12CFn-tcHB79tYaFBGBNfoDx8mrKHT691/view?usp=sharing
 ## Webiste Screens
 
 <img width="1920" height="1177" alt="image1" src="https://github.com/user-attachments/assets/a7b716ff-b4fe-47d1-bb0c-e838aaf80658" />
