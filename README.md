@@ -43,7 +43,7 @@ The app filters companies by:
 
 Filtering also automatically **resets the current page to 1** for accurate results.
 
-### 📄 Pagination
+### Pagination
 Pagination dynamically adjusts based on filtered results:
 ```js
 const totalPages = Math.ceil(filteredCompanies.length / itemsPerPage);
