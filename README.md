@@ -20,10 +20,6 @@ src/
 │   └── Loader.jsx
 ├── pages/
 │   └── Home.jsx
-├── context/
-│   └── CompanyContext.jsx (if using Context API)
-├── data/
-│   └── companies.json (mock data)
 ├── App.jsx
 ├── main.jsx
 └── index.css
