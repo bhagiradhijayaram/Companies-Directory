@@ -73,6 +73,8 @@ Jayaram Bhagheeradhi
 
 <img width="602" height="803" alt="image4" src="https://github.com/user-attachments/assets/1ce94fff-e697-4e70-b858-af6f701689fe" />
 
+<img width="720" height="1600" alt="Mobile_View" src="https://github.com/user-attachments/assets/e8406a65-72a7-4861-97e6-767f8fbfce15" />
+
 
 
 
