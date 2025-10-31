@@ -58,5 +58,6 @@ const totalPages = Math.ceil(filteredCompanies.length / itemsPerPage);
 Jayaram Bhagheeradhi
 
 ## Webiste Screens
+
 <img width="1920" height="1177" alt="screencapture-localhost-5173-2025-10-31-07_20_40" src="https://github.com/user-attachments/assets/c31151ea-e134-4b11-88bb-6b279170e536" />
 
