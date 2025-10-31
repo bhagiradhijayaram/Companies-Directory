@@ -8,6 +8,27 @@ A React-based application to list and filter companies by location, industry, an
 - Responsive design using Tailwind CSS
 - Error and loading state handling
 
+## Folder Structure
+```
+src/
+├── components/
+│   ├── Navbar.jsx
+│   ├── Filters.jsx
+│   ├── CompanyCard.jsx
+│   ├── CompanyTable.jsx
+│   ├── Pagination.jsx
+│   └── Loader.jsx
+├── pages/
+│   └── Home.jsx
+├── context/
+│   └── CompanyContext.jsx (if using Context API)
+├── data/
+│   └── companies.json (mock data)
+├── App.jsx
+├── main.jsx
+└── index.css
+
+```
 ## Tech Stack
 React 19, Tailwind CSS v4, Vite
 
