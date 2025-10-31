@@ -59,5 +59,18 @@ Jayaram Bhagheeradhi
 
 ## Webiste Screens
 
-<img width="1920" height="1177" alt="screencapture-localhost-5173-2025-10-31-07_20_40" src="https://github.com/user-attachments/assets/c31151ea-e134-4b11-88bb-6b279170e536" />
+<img width="1920" height="1177" alt="image1" src="https://github.com/user-attachments/assets/a7b716ff-b4fe-47d1-bb0c-e838aaf80658" />
+
+<img width="1920" height="1062" alt="image5" src="https://github.com/user-attachments/assets/1e067f6c-669b-4e04-9a46-4a7ef62ac6a5" />
+
+<img width="1920" height="1203" alt="image7" src="https://github.com/user-attachments/assets/13da530f-6f1e-48a5-bd74-0b2b3af37d97" />
+
+<img width="1920" height="1062" alt="image8" src="https://github.com/user-attachments/assets/07f10214-30a8-4788-85d6-9d6b891e7d54" />
+
+<img width="1920" height="1062" alt="image6" src="https://github.com/user-attachments/assets/e404f778-150d-4b1a-95de-5b15d6485022" />
+
+
+
+
+
 
