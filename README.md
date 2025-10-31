@@ -33,6 +33,21 @@ src/
 ## Tech Stack
 React 19, Tailwind CSS v4, Vite
 
+## 🧩 Key Functionalities Explained
+
+### 🔍 Filtering Logic
+The app filters companies by:
+- Search term (matches name, industry, or location)
+- Selected location
+- Selected industry
+
+Filtering also automatically **resets the current page to 1** for accurate results.
+
+### 📄 Pagination
+Pagination dynamically adjusts based on filtered results:
+```js
+const totalPages = Math.ceil(filteredCompanies.length / itemsPerPage);
+
 ## Setup Instructions
 1. Clone the repo: `https://github.com/bhagiradhijayaram/Companies-Directory.git`
 2. Install dependencies: `npm install`
