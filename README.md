@@ -1,6 +1,7 @@
 # Company Directory Web
 
-A React-based application to list and filter companies by location, industry, and name.
+A responsive and interactive **Company Directory Web Application** built using **React 19**, **Vite**, and **Tailwind CSS v4**.  
+This app allows users to browse, search, filter, and sort company data with smooth pagination and dynamic UI updates.
 
 ## Features
 - Search, filter, and sort companies
