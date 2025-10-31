@@ -18,7 +18,6 @@ const Home = () => {
     try {
       setLoading(true);
       setError("");
-
       const response = await fetch("/companies.json");
       if (!response.ok) {
         throw new Error("Failed to fetch company data");

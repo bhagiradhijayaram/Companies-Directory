@@ -1,5 +1,6 @@
 import { LuBuilding2 } from "react-icons/lu";
 import { CiLocationOn, CiGlobe } from "react-icons/ci";
+
 const CompanyCard = ({ companyInfo }) => {
   const { name, location, website, industry } = companyInfo;
   return (

@@ -6,7 +6,7 @@ import {
 
 const Pagination = ({ currentPage, setCurrentPage, totalPages }) => {
   console.log(totalPages);
-  if (totalPages <= 1) return null; // No pagination if only one page
+  if (totalPages <= 1) return null;
 
   const handlePageChange = (page) => {
     if (page >= 1 && page <= totalPages) {
@@ -17,6 +17,7 @@ const Pagination = ({ currentPage, setCurrentPage, totalPages }) => {
   return (
     <div className="my-6 flex justify-end items-center">
       <div className="flex items-center gap-2">
+        {/* Left button */}
         <button
           className={`w-8 h-8 flex items-center justify-center rounded-md text-sm font-medium transition-all duration-200
             ${
@@ -29,12 +30,10 @@ const Pagination = ({ currentPage, setCurrentPage, totalPages }) => {
         >
           <MdOutlineKeyboardArrowLeft size={20} />
         </button>
-
         <p>
           Page {currentPage} of {totalPages}
         </p>
-
-        {/* Next Button */}
+        {/* Right button */}
         <button
           className={`w-8 h-8 flex items-center justify-center rounded-md text-sm font-medium transition-all duration-200 
             ${
